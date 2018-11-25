@@ -1,0 +1,11 @@
+@import "./dark.css";
+
+.application-container {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.container-content {
+  flex: 1;
+}
